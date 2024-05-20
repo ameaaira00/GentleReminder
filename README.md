@@ -10,7 +10,7 @@ This web application delivers daily motivational reminders to uplift your spirit
 
 ## Usage
 
-1. Open the web app in your browser.
+1. Open the web app ( https://ameaaira00.github.io/GentleReminder/ ) in your browser.
 2. Receive a new reminder each day to start your day on a positive note.
 3. Enjoy the gentle motivation and inspiration!
 
